@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 42c86c9a-3725-8612-c1b3-46fbc61ade6b
 resourcetype: Document
 title: 'The Clean Water Act up "Poop" Creek: A Case Study of How Local Dynamics Muddied
   the Clean Water Act in New Bedford, Massachusetts'

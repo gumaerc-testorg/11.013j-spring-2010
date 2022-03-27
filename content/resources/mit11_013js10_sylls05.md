@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 971d2df5-ce83-78eb-5cf4-876ba21b9404
 resourcetype: Document
 title: Spring 2005, Robert Fogelson
 uid: f3ccb088-2f5b-e1e2-e27f-59dbb0bc33d8

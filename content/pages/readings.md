@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the readings assigned for each week of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 20fd09df-f9c7-f82e-dc6a-d1cd2a265c28
 ---

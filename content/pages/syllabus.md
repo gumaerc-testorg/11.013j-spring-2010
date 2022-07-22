@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, requirements, assignments, and an archive of syllabi
+  from a variety of different terms.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 971d2df5-ce83-78eb-5cf4-876ba21b9404
 ---
@@ -32,8 +37,8 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2010, Robert Fogelson ([PDF]({{< baseurl >}}/resources/mit21h_231js05_sylls10))
+> Spring 2010, Robert Fogelson ({{% resource_link 4f1340f8-222f-ae8f-dd22-6ab46707990d "PDF" %}})
 > 
-> Spring 2008, Robert Fogelson ([PDF]({{< baseurl >}}/resources/mit11_013js10_sylls08))
+> Spring 2008, Robert Fogelson ({{% resource_link 38e3f084-194a-d8bc-bcb9-5e54f1466297 "PDF" %}})
 > 
-> Spring 2005, Robert Fogelson ([PDF]({{< baseurl >}}/resources/mit11_013js10_sylls05))
+> Spring 2005, Robert Fogelson ({{% resource_link f3ccb088-2f5b-e1e2-e27f-59dbb0bc33d8 "PDF" %}})

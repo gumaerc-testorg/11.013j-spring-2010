@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of student work for a project on American urban history.
-file: /courses/11-013j-american-urban-history-i-spring-2010/a801725d0b59ebfe6b3f439bb784e42d_MIT11_013JS10_emma_basin.pdf
+file: /ol-ocw-studio-app/courses/11-013j-american-urban-history-i-spring-2010/a801725d0b59ebfe6b3f439bb784e42d_MIT11_013JS10_emma_basin.pdf
 file_size: 750742
 file_type: application/pdf
 learning_resource_types:
